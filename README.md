@@ -208,7 +208,7 @@ Skills can be installed to any of these agents:
 <!-- supported-agents:start -->
 | Agent | `--agent` | Project Path | Global Path |
 |-------|-----------|--------------|-------------|
-| Amp, Kimi Code CLI | `amp`, `kimi-cli` | `.agents/skills/` | `~/.config/agents/skills/` |
+| Amp, Kimi Code CLI, Replit | `amp`, `kimi-cli`, `replit` | `.agents/skills/` | `~/.config/agents/skills/` |
 | Antigravity | `antigravity` | `.agent/skills/` | `~/.gemini/antigravity/skills/` |
 | Augment | `augment` | `.augment/rules/` | `~/.augment/rules/` |
 | Claude Code | `claude-code` | `.claude/skills/` | `~/.claude/skills/` |
@@ -237,7 +237,6 @@ Skills can be installed to any of these agents:
 | Pi | `pi` | `.pi/skills/` | `~/.pi/agent/skills/` |
 | Qoder | `qoder` | `.qoder/skills/` | `~/.qoder/skills/` |
 | Qwen Code | `qwen-code` | `.qwen/skills/` | `~/.qwen/skills/` |
-| Replit | `replit` | `.agents/skills/` | N/A (project-only) |
 | Roo Code | `roo` | `.roo/skills/` | `~/.roo/skills/` |
 | Trae | `trae` | `.trae/skills/` | `~/.trae/skills/` |
 | Trae CN | `trae-cn` | `.trae/skills/` | `~/.trae-cn/skills/` |
